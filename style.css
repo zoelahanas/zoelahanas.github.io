@@ -49,7 +49,7 @@ td:last-child{font-variant-numeric:tabular-nums;font-weight:600}
 .contact h2{color:#fff}.contact p{color:#c9d5e8;margin:0 0 22px}.contact a:not(.btn){color:var(--gold)}
 .btns{display:flex;flex-wrap:wrap;gap:12px}
 .btn{display:inline-block;padding:12px 24px;font-weight:600;font-size:16px;text-decoration:none;border:2px solid var(--gold);color:#fff;border-radius:3px}
-.btn.primary{background:var(--gold);color:var(--navy)}.btn:hover{background:#fff;border-color:#fff;color:var(--navy)}
+.btn.primary{background:var(--gold);color:var(--navy)}.btn.blue{background:var(--blue);border-color:var(--blue);color:#fff}.btn:hover{background:#fff;border-color:#fff;color:var(--navy)}
 footer{padding:20px 0;font-size:14px;text-align:center;background:var(--navy);color:#9fb0c9;font-family:'Bricolage Grotesque',sans-serif}
 @media(max-width:720px){.about{grid-template-columns:1fr}.about img{max-width:280px}section{padding:44px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
